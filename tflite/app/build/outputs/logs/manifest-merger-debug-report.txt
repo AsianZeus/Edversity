@@ -1,0 +1,679 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:3:1-61:12
+INJECTED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:3:1-61:12
+INJECTED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:3:1-61:12
+INJECTED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:3:1-61:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\c6c374ea1b0ea9fb01dcb5672488e9c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.airbnb.android:lottie:2.7.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\75ebd6452d25d53302ce970cca872254\AndroidManifest.xml:2:1-13:12
+MERGED from [com.shobhitpuri.custombuttons:google-signin:1.0.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\21f1c616d9b2c0b86bb03ebdc3d104ac\AndroidManifest.xml:2:1-15:12
+MERGED from [com.tuyenmonkey:mkloader:1.4.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\fce05ad0104cbbb1bce47e9d45ac50e6\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.GoodieBag:Pinview:v1.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\5e7183cca77fd085b684caec9d879d5a\AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.joielechong:countrycodepicker:2.2.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\cf3cd7595c3f6f37ba5357d93e3140c8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\5a604fc6d07772b983ef580c68451024\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\2cf73de634258fb35ce5cceea8b8a0c8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\f85b98bb764c5c8b133433e79afad2f6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\20783219926f569791a792d1f723608c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.felipecsl:gifimageview:2.2.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\cacc0645c859544a3938d002b0d6b1ae\AndroidManifest.xml:2:1-12:12
+MERGED from [com.lyft:scissors:1.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\d092f77e7d20ce31553d0b4af640e087\AndroidManifest.xml:2:1-8:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\05029ed25fb227964fee8b0e3e94ce7d\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\22a059c003ee9d228a8c47285f5a8cf8\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\653267f8b287e55310f370e5e659dae0\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\c63dc40475e695ea3a3a1f0f0198a874\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.firebase:firebase-database:16.0.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\0b82fe73d139ade53323328d73c3d5ab\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-core:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\392f8829a5c9fa0f2e4f47b8ddfb0cbf\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\7dfc38d3ad54dd05724bc3b98c087672\AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\52b53d6c47e3e6153c7f556b4f75b934\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\a8dca04f4204f5a05270de186d576672\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-storage:16.0.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\5c1b5db30e6fb66a99d849a64386813d\AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\a9119c74b9db5f11990839f64cd68cd1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\7122bd2f329d9ab91b831cfa87c5a79e\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\7169e43565ab0efef079a0b4896b9577\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\630d81a768bd625bd84660ce2fbed283\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\b7e94079923361c4ac54527932c4205d\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\ae479ab25244ec86ab7a71ac21453304\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\41d2443802320f843cb564cecf1d5729\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\6eff33c01211b9d2da8ae33148c985cd\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\f94b3cd0cd8cbbd7658ffe0989ae8266\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\059a66b9d92d81c0fffe6204fafc9804\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\c316b65c3ef4b4ff256e22489a586768\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\6c83dfc7f275b439e454f7af5dc5054f\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\a6c7ef58b482c8ede23f75e7b2b545e5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\eb6921a022f1690b632d90dbf8768dd3\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\e24cd263b4bafa012d524f6bf95741e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\ee26468ff3a2e406ea86accba07102f0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\09a89a41e4c5bde244adb99024b0099f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\980f75e7d6d883a81dce3c7b3da76eee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\1e0e2c0dac68fb783cfa633d267b40a4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\698f5a1ece67eb924c21fa9e52710dbc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\2d954981620942ad48e04887a55d5a65\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\54b140ac7fd8e3470f6f8518b4958003\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\a577a326e9b4885de9b4cd6bfbe3b3a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\019ff3e1084c3dc05e00fb695ea9d09d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\6dce057b0a91865480126c4dd1519f81\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\a0f3dd072f32deea74c224e4bdf64be2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\0b8016db6f775c06ac41f07dc073859d\AndroidManifest.xml:2:1-11:12
+MERGED from [org.tensorflow:tensorflow-android:1.3.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\d4ecd1ca1d79c697937e0bcf7335206a\AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\5701903588f32614437e0cf316c30f3a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.ogaclejapan.smarttablayout:library:1.6.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\30f273ef4be51621da51c38f8018d830\AndroidManifest.xml:2:1-12:12
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8b7a8ae0c2adf0ae6b65f108300cce1c\AndroidManifest.xml:2:1-11:12
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\cb9482ee8fd8419862a757b15a360572\AndroidManifest.xml:2:1-10:12
+MERGED from [io.michaelrocks:libphonenumber-android:8.9.14] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\452d9176414faea5e74a2b94e18dcc0e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\50c1dcce8c0efd0eccf3e19d6ffdd31a\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\5bed977586a7a6e11bb3935a3a553394\AndroidManifest.xml:2:1-11:12
+MERGED from [io.grpc:grpc-android:1.16.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\13a6457b87f8cc81fe503cd0141f6b65\AndroidManifest.xml:2:1-13:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\6db26785647ef32437b8e6db3310d3ba\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\1705b685ec485275444df5513218699a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\0d874c644ae8efa8656586a15dbfd726\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\36f42203b969befd4020e9f061a1511a\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:3:1-61:12
+INJECTED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:3:1-61:12
+INJECTED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:3:1-61:12
+	package
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:4:5-42
+		INJECTED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:3:1-61:12
+		INJECTED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:3:1-61:12
+		INJECTED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:3:11-69
+uses-permission#android.permission.CAMERA
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:6:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:7:22-63
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:8:22-73
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:9:22-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\c63dc40475e695ea3a3a1f0f0198a874\AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\c63dc40475e695ea3a3a1f0f0198a874\AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\0b82fe73d139ade53323328d73c3d5ab\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\0b82fe73d139ade53323328d73c3d5ab\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\7dfc38d3ad54dd05724bc3b98c087672\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\7dfc38d3ad54dd05724bc3b98c087672\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\5c1b5db30e6fb66a99d849a64386813d\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\5c1b5db30e6fb66a99d849a64386813d\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\630d81a768bd625bd84660ce2fbed283\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\630d81a768bd625bd84660ce2fbed283\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\b7e94079923361c4ac54527932c4205d\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\b7e94079923361c4ac54527932c4205d\AndroidManifest.xml:22:5-79
+MERGED from [io.grpc:grpc-android:1.16.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\13a6457b87f8cc81fe503cd0141f6b65\AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.16.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\13a6457b87f8cc81fe503cd0141f6b65\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\c63dc40475e695ea3a3a1f0f0198a874\AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\c63dc40475e695ea3a3a1f0f0198a874\AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\0b82fe73d139ade53323328d73c3d5ab\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\0b82fe73d139ade53323328d73c3d5ab\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\7dfc38d3ad54dd05724bc3b98c087672\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\7dfc38d3ad54dd05724bc3b98c087672\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\5c1b5db30e6fb66a99d849a64386813d\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\5c1b5db30e6fb66a99d849a64386813d\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\630d81a768bd625bd84660ce2fbed283\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\630d81a768bd625bd84660ce2fbed283\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\b7e94079923361c4ac54527932c4205d\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\b7e94079923361c4ac54527932c4205d\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:13:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:14:22-77
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:15:5-70
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:15:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:16:22-64
+uses-permission#android.permission.SEND_SMS
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:17:22-64
+uses-feature#android.hardware.camera
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:20:5-60
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:20:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:21:5-70
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:21:19-67
+application
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:24:5-59:19
+MERGED from [com.airbnb.android:lottie:2.7.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\75ebd6452d25d53302ce970cca872254\AndroidManifest.xml:11:5-20
+MERGED from [com.airbnb.android:lottie:2.7.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\75ebd6452d25d53302ce970cca872254\AndroidManifest.xml:11:5-20
+MERGED from [com.shobhitpuri.custombuttons:google-signin:1.0.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\21f1c616d9b2c0b86bb03ebdc3d104ac\AndroidManifest.xml:11:5-13:38
+MERGED from [com.shobhitpuri.custombuttons:google-signin:1.0.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\21f1c616d9b2c0b86bb03ebdc3d104ac\AndroidManifest.xml:11:5-13:38
+MERGED from [com.github.GoodieBag:Pinview:v1.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\5e7183cca77fd085b684caec9d879d5a\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.GoodieBag:Pinview:v1.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\5e7183cca77fd085b684caec9d879d5a\AndroidManifest.xml:11:5-15:19
+MERGED from [com.felipecsl:gifimageview:2.2.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\cacc0645c859544a3938d002b0d6b1ae\AndroidManifest.xml:10:5-20
+MERGED from [com.felipecsl:gifimageview:2.2.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\cacc0645c859544a3938d002b0d6b1ae\AndroidManifest.xml:10:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\05029ed25fb227964fee8b0e3e94ce7d\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\05029ed25fb227964fee8b0e3e94ce7d\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\22a059c003ee9d228a8c47285f5a8cf8\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\22a059c003ee9d228a8c47285f5a8cf8\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\653267f8b287e55310f370e5e659dae0\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\653267f8b287e55310f370e5e659dae0\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\c63dc40475e695ea3a3a1f0f0198a874\AndroidManifest.xml:12:5-18:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\c63dc40475e695ea3a3a1f0f0198a874\AndroidManifest.xml:12:5-18:19
+MERGED from [com.google.firebase:firebase-core:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\392f8829a5c9fa0f2e4f47b8ddfb0cbf\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\392f8829a5c9fa0f2e4f47b8ddfb0cbf\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\7dfc38d3ad54dd05724bc3b98c087672\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\7dfc38d3ad54dd05724bc3b98c087672\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\7122bd2f329d9ab91b831cfa87c5a79e\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\7122bd2f329d9ab91b831cfa87c5a79e\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\7169e43565ab0efef079a0b4896b9577\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\7169e43565ab0efef079a0b4896b9577\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\630d81a768bd625bd84660ce2fbed283\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\630d81a768bd625bd84660ce2fbed283\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\b7e94079923361c4ac54527932c4205d\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\b7e94079923361c4ac54527932c4205d\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\ae479ab25244ec86ab7a71ac21453304\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\ae479ab25244ec86ab7a71ac21453304\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\41d2443802320f843cb564cecf1d5729\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\41d2443802320f843cb564cecf1d5729\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\6eff33c01211b9d2da8ae33148c985cd\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\6eff33c01211b9d2da8ae33148c985cd\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\f94b3cd0cd8cbbd7658ffe0989ae8266\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\f94b3cd0cd8cbbd7658ffe0989ae8266\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\059a66b9d92d81c0fffe6204fafc9804\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\059a66b9d92d81c0fffe6204fafc9804\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\c316b65c3ef4b4ff256e22489a586768\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\c316b65c3ef4b4ff256e22489a586768\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\6c83dfc7f275b439e454f7af5dc5054f\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\6c83dfc7f275b439e454f7af5dc5054f\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\a6c7ef58b482c8ede23f75e7b2b545e5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\a6c7ef58b482c8ede23f75e7b2b545e5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\eb6921a022f1690b632d90dbf8768dd3\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\eb6921a022f1690b632d90dbf8768dd3\AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\ee26468ff3a2e406ea86accba07102f0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\ee26468ff3a2e406ea86accba07102f0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\a0f3dd072f32deea74c224e4bdf64be2\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\a0f3dd072f32deea74c224e4bdf64be2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\0b8016db6f775c06ac41f07dc073859d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\0b8016db6f775c06ac41f07dc073859d\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-android:1.3.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\d4ecd1ca1d79c697937e0bcf7335206a\AndroidManifest.xml:5:5-6:19
+MERGED from [org.tensorflow:tensorflow-android:1.3.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\d4ecd1ca1d79c697937e0bcf7335206a\AndroidManifest.xml:5:5-6:19
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\5701903588f32614437e0cf316c30f3a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\5701903588f32614437e0cf316c30f3a\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8b7a8ae0c2adf0ae6b65f108300cce1c\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8b7a8ae0c2adf0ae6b65f108300cce1c\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\cb9482ee8fd8419862a757b15a360572\AndroidManifest.xml:8:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\cb9482ee8fd8419862a757b15a360572\AndroidManifest.xml:8:5-20
+	android:supportsRtl
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:29:9-35
+	android:label
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:27:9-41
+	android:roundIcon
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:28:9-55
+	android:icon
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:26:9-50
+	android:allowBackup
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:30:9-40
+activity#com.example.akroc.edversity.ProduceTest
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:31:9-48
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:31:19-46
+activity#com.example.akroc.edversity.ColorTest
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:32:9-47
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:32:19-44
+activity#com.example.akroc.edversity.CameraActivity
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:33:9-34:47
+	android:label
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:33:19-49
+activity#com.example.akroc.edversity.AnimalTest
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:35:9-48
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:35:19-45
+activity#com.example.akroc.edversity.PronunTest
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:36:9-48
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:36:19-45
+activity#com.example.akroc.edversity.RhymesList
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:37:9-48
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:37:19-45
+activity#com.example.akroc.edversity.MatchingLikeObj
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:38:9-90
+	android:label
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:38:51-88
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:38:19-50
+activity#com.example.akroc.edversity.LearnFruandVeg
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:39:9-52
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:39:19-49
+activity#com.example.akroc.edversity.LearnAnisounds
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:40:9-52
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:40:19-49
+activity#com.example.akroc.edversity.LearnRhymes
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:41:9-49
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:41:19-46
+activity#com.example.akroc.edversity.LearnPronunciation
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:42:9-56
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:42:19-53
+activity#com.example.akroc.edversity.LearnColors
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:43:9-49
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:43:19-46
+activity#com.example.akroc.edversity.LearnShapes
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:44:9-49
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:44:19-46
+activity#com.example.akroc.edversity.AlphaTest
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:45:9-47
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:45:19-44
+activity#com.example.akroc.edversity.LearnAlpha
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:46:9-48
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:46:19-45
+activity#com.example.akroc.edversity.Settings
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:47:9-46
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:47:19-43
+activity#com.example.akroc.edversity.SplashScreen
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:48:9-54:20
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:48:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:49:13-53:29
+action#android.intent.action.MAIN
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:52:27-74
+activity#com.example.akroc.edversity.MainActivity
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:55:9-50
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:55:19-47
+activity#com.example.akroc.edversity.slidewalk
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:56:9-47
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:56:19-44
+activity#com.example.akroc.edversity.Dashboard
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:57:9-47
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:57:19-44
+activity#com.example.akroc.edversity.Verphone
+ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:58:9-46
+	android:name
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml:58:19-43
+uses-sdk
+INJECTED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml
+INJECTED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\c6c374ea1b0ea9fb01dcb5672488e9c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\c6c374ea1b0ea9fb01dcb5672488e9c4\AndroidManifest.xml:20:5-44
+MERGED from [com.airbnb.android:lottie:2.7.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\75ebd6452d25d53302ce970cca872254\AndroidManifest.xml:7:5-9:41
+MERGED from [com.airbnb.android:lottie:2.7.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\75ebd6452d25d53302ce970cca872254\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shobhitpuri.custombuttons:google-signin:1.0.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\21f1c616d9b2c0b86bb03ebdc3d104ac\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shobhitpuri.custombuttons:google-signin:1.0.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\21f1c616d9b2c0b86bb03ebdc3d104ac\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tuyenmonkey:mkloader:1.4.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\fce05ad0104cbbb1bce47e9d45ac50e6\AndroidManifest.xml:8:5-10:41
+MERGED from [com.tuyenmonkey:mkloader:1.4.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\fce05ad0104cbbb1bce47e9d45ac50e6\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.GoodieBag:Pinview:v1.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\5e7183cca77fd085b684caec9d879d5a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.GoodieBag:Pinview:v1.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\5e7183cca77fd085b684caec9d879d5a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.joielechong:countrycodepicker:2.2.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\cf3cd7595c3f6f37ba5357d93e3140c8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.joielechong:countrycodepicker:2.2.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\cf3cd7595c3f6f37ba5357d93e3140c8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\5a604fc6d07772b983ef580c68451024\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\5a604fc6d07772b983ef580c68451024\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\2cf73de634258fb35ce5cceea8b8a0c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\2cf73de634258fb35ce5cceea8b8a0c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\f85b98bb764c5c8b133433e79afad2f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\f85b98bb764c5c8b133433e79afad2f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\20783219926f569791a792d1f723608c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\20783219926f569791a792d1f723608c\AndroidManifest.xml:20:5-44
+MERGED from [com.felipecsl:gifimageview:2.2.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\cacc0645c859544a3938d002b0d6b1ae\AndroidManifest.xml:8:5-43
+MERGED from [com.felipecsl:gifimageview:2.2.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\cacc0645c859544a3938d002b0d6b1ae\AndroidManifest.xml:8:5-43
+MERGED from [com.lyft:scissors:1.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\d092f77e7d20ce31553d0b4af640e087\AndroidManifest.xml:6:5-44
+MERGED from [com.lyft:scissors:1.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\d092f77e7d20ce31553d0b4af640e087\AndroidManifest.xml:6:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\05029ed25fb227964fee8b0e3e94ce7d\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\05029ed25fb227964fee8b0e3e94ce7d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\22a059c003ee9d228a8c47285f5a8cf8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\22a059c003ee9d228a8c47285f5a8cf8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\653267f8b287e55310f370e5e659dae0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\653267f8b287e55310f370e5e659dae0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\c63dc40475e695ea3a3a1f0f0198a874\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\c63dc40475e695ea3a3a1f0f0198a874\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database:16.0.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\0b82fe73d139ade53323328d73c3d5ab\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\0b82fe73d139ade53323328d73c3d5ab\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-core:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\392f8829a5c9fa0f2e4f47b8ddfb0cbf\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\392f8829a5c9fa0f2e4f47b8ddfb0cbf\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\7dfc38d3ad54dd05724bc3b98c087672\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\7dfc38d3ad54dd05724bc3b98c087672\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\52b53d6c47e3e6153c7f556b4f75b934\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\52b53d6c47e3e6153c7f556b4f75b934\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\a8dca04f4204f5a05270de186d576672\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\a8dca04f4204f5a05270de186d576672\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage:16.0.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\5c1b5db30e6fb66a99d849a64386813d\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:16.0.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\5c1b5db30e6fb66a99d849a64386813d\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\a9119c74b9db5f11990839f64cd68cd1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\a9119c74b9db5f11990839f64cd68cd1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\7122bd2f329d9ab91b831cfa87c5a79e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\7122bd2f329d9ab91b831cfa87c5a79e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\7169e43565ab0efef079a0b4896b9577\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\7169e43565ab0efef079a0b4896b9577\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\630d81a768bd625bd84660ce2fbed283\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\630d81a768bd625bd84660ce2fbed283\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\b7e94079923361c4ac54527932c4205d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\b7e94079923361c4ac54527932c4205d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\ae479ab25244ec86ab7a71ac21453304\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\ae479ab25244ec86ab7a71ac21453304\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\41d2443802320f843cb564cecf1d5729\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\41d2443802320f843cb564cecf1d5729\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\6eff33c01211b9d2da8ae33148c985cd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\6eff33c01211b9d2da8ae33148c985cd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\f94b3cd0cd8cbbd7658ffe0989ae8266\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\f94b3cd0cd8cbbd7658ffe0989ae8266\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\059a66b9d92d81c0fffe6204fafc9804\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\059a66b9d92d81c0fffe6204fafc9804\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\c316b65c3ef4b4ff256e22489a586768\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\c316b65c3ef4b4ff256e22489a586768\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\6c83dfc7f275b439e454f7af5dc5054f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\6c83dfc7f275b439e454f7af5dc5054f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\a6c7ef58b482c8ede23f75e7b2b545e5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\a6c7ef58b482c8ede23f75e7b2b545e5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\eb6921a022f1690b632d90dbf8768dd3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\eb6921a022f1690b632d90dbf8768dd3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\e24cd263b4bafa012d524f6bf95741e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\e24cd263b4bafa012d524f6bf95741e8\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\ee26468ff3a2e406ea86accba07102f0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\ee26468ff3a2e406ea86accba07102f0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\09a89a41e4c5bde244adb99024b0099f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\09a89a41e4c5bde244adb99024b0099f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\980f75e7d6d883a81dce3c7b3da76eee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\980f75e7d6d883a81dce3c7b3da76eee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\1e0e2c0dac68fb783cfa633d267b40a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\1e0e2c0dac68fb783cfa633d267b40a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\698f5a1ece67eb924c21fa9e52710dbc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\698f5a1ece67eb924c21fa9e52710dbc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\2d954981620942ad48e04887a55d5a65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\2d954981620942ad48e04887a55d5a65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\54b140ac7fd8e3470f6f8518b4958003\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\54b140ac7fd8e3470f6f8518b4958003\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\a577a326e9b4885de9b4cd6bfbe3b3a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\a577a326e9b4885de9b4cd6bfbe3b3a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\019ff3e1084c3dc05e00fb695ea9d09d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\019ff3e1084c3dc05e00fb695ea9d09d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\6dce057b0a91865480126c4dd1519f81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\6dce057b0a91865480126c4dd1519f81\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\a0f3dd072f32deea74c224e4bdf64be2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\a0f3dd072f32deea74c224e4bdf64be2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\0b8016db6f775c06ac41f07dc073859d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\0b8016db6f775c06ac41f07dc073859d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\5701903588f32614437e0cf316c30f3a\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\5701903588f32614437e0cf316c30f3a\AndroidManifest.xml:7:5-43
+MERGED from [com.ogaclejapan.smarttablayout:library:1.6.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\30f273ef4be51621da51c38f8018d830\AndroidManifest.xml:8:5-10:41
+MERGED from [com.ogaclejapan.smarttablayout:library:1.6.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\30f273ef4be51621da51c38f8018d830\AndroidManifest.xml:8:5-10:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8b7a8ae0c2adf0ae6b65f108300cce1c\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8b7a8ae0c2adf0ae6b65f108300cce1c\AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\cb9482ee8fd8419862a757b15a360572\AndroidManifest.xml:5:5-6:41
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\cb9482ee8fd8419862a757b15a360572\AndroidManifest.xml:5:5-6:41
+MERGED from [io.michaelrocks:libphonenumber-android:8.9.14] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\452d9176414faea5e74a2b94e18dcc0e\AndroidManifest.xml:7:5-9:41
+MERGED from [io.michaelrocks:libphonenumber-android:8.9.14] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\452d9176414faea5e74a2b94e18dcc0e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\50c1dcce8c0efd0eccf3e19d6ffdd31a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\50c1dcce8c0efd0eccf3e19d6ffdd31a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\5bed977586a7a6e11bb3935a3a553394\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\5bed977586a7a6e11bb3935a3a553394\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.16.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\13a6457b87f8cc81fe503cd0141f6b65\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.16.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\13a6457b87f8cc81fe503cd0141f6b65\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\6db26785647ef32437b8e6db3310d3ba\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\6db26785647ef32437b8e6db3310d3ba\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\1705b685ec485275444df5513218699a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\1705b685ec485275444df5513218699a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\0d874c644ae8efa8656586a15dbfd726\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\0d874c644ae8efa8656586a15dbfd726\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\36f42203b969befd4020e9f061a1511a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\36f42203b969befd4020e9f061a1511a\AndroidManifest.xml:20:5-44
+INJECTED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml
+INJECTED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml
+		ADDED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml
+		MERGED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Edversity\tflite\app\src\main\AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\05029ed25fb227964fee8b0e3e94ce7d\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\05029ed25fb227964fee8b0e3e94ce7d\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\05029ed25fb227964fee8b0e3e94ce7d\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\05029ed25fb227964fee8b0e3e94ce7d\AndroidManifest.xml:9:13-64
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\22a059c003ee9d228a8c47285f5a8cf8\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\22a059c003ee9d228a8c47285f5a8cf8\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\22a059c003ee9d228a8c47285f5a8cf8\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\22a059c003ee9d228a8c47285f5a8cf8\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\22a059c003ee9d228a8c47285f5a8cf8\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\22a059c003ee9d228a8c47285f5a8cf8\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\22a059c003ee9d228a8c47285f5a8cf8\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\22a059c003ee9d228a8c47285f5a8cf8\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\22a059c003ee9d228a8c47285f5a8cf8\AndroidManifest.xml:34:13-89
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\653267f8b287e55310f370e5e659dae0\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\653267f8b287e55310f370e5e659dae0\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\653267f8b287e55310f370e5e659dae0\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\653267f8b287e55310f370e5e659dae0\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\653267f8b287e55310f370e5e659dae0\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\653267f8b287e55310f370e5e659dae0\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\653267f8b287e55310f370e5e659dae0\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\653267f8b287e55310f370e5e659dae0\AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\653267f8b287e55310f370e5e659dae0\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\c63dc40475e695ea3a3a1f0f0198a874\AndroidManifest.xml:13:9-17:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\c63dc40475e695ea3a3a1f0f0198a874\AndroidManifest.xml:13:9-17:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\7dfc38d3ad54dd05724bc3b98c087672\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\7dfc38d3ad54dd05724bc3b98c087672\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\b7e94079923361c4ac54527932c4205d\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\b7e94079923361c4ac54527932c4205d\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\653267f8b287e55310f370e5e659dae0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\653267f8b287e55310f370e5e659dae0\AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\653267f8b287e55310f370e5e659dae0\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\653267f8b287e55310f370e5e659dae0\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\653267f8b287e55310f370e5e659dae0\AndroidManifest.xml:37:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:17.1.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\c63dc40475e695ea3a3a1f0f0198a874\AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:17.1.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\c63dc40475e695ea3a3a1f0f0198a874\AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:17.1.5] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\c63dc40475e695ea3a3a1f0f0198a874\AndroidManifest.xml:15:17-111
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\7dfc38d3ad54dd05724bc3b98c087672\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\630d81a768bd625bd84660ce2fbed283\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\630d81a768bd625bd84660ce2fbed283\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\b7e94079923361c4ac54527932c4205d\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\b7e94079923361c4ac54527932c4205d\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\7dfc38d3ad54dd05724bc3b98c087672\AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\7dfc38d3ad54dd05724bc3b98c087672\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\7dfc38d3ad54dd05724bc3b98c087672\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\7dfc38d3ad54dd05724bc3b98c087672\AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\630d81a768bd625bd84660ce2fbed283\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\630d81a768bd625bd84660ce2fbed283\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\630d81a768bd625bd84660ce2fbed283\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\630d81a768bd625bd84660ce2fbed283\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\8d48696c4803443d83a4625736da83d6\AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\b7e94079923361c4ac54527932c4205d\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\b7e94079923361c4ac54527932c4205d\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\b7e94079923361c4ac54527932c4205d\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\b7e94079923361c4ac54527932c4205d\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\b7e94079923361c4ac54527932c4205d\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\b7e94079923361c4ac54527932c4205d\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\b7e94079923361c4ac54527932c4205d\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\b7e94079923361c4ac54527932c4205d\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\b7e94079923361c4ac54527932c4205d\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\b7e94079923361c4ac54527932c4205d\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\b7e94079923361c4ac54527932c4205d\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\b7e94079923361c4ac54527932c4205d\AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\b7e94079923361c4ac54527932c4205d\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\b7e94079923361c4ac54527932c4205d\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\b7e94079923361c4ac54527932c4205d\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\b7e94079923361c4ac54527932c4205d\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\b7e94079923361c4ac54527932c4205d\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\b7e94079923361c4ac54527932c4205d\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\b7e94079923361c4ac54527932c4205d\AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\41d2443802320f843cb564cecf1d5729\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\41d2443802320f843cb564cecf1d5729\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\41d2443802320f843cb564cecf1d5729\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\41d2443802320f843cb564cecf1d5729\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\6eff33c01211b9d2da8ae33148c985cd\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\6eff33c01211b9d2da8ae33148c985cd\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\6eff33c01211b9d2da8ae33148c985cd\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\6eff33c01211b9d2da8ae33148c985cd\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.4] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\6eff33c01211b9d2da8ae33148c985cd\AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\eb6921a022f1690b632d90dbf8768dd3\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\eb6921a022f1690b632d90dbf8768dd3\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\akroc\.gradle\caches\transforms-2\files-2.1\eb6921a022f1690b632d90dbf8768dd3\AndroidManifest.xml:24:13-58

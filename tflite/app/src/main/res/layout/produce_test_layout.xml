@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_margin="15dp"
+        android:paddingTop="10dp"
+        android:background="@drawable/slide_bg"
+        android:elevation="4dp">
+
+        <TextView
+        android:id="@+id/produceid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Apple"
+            android:textAlignment="center"
+        android:textSize="30dp"/>
+
+        <RelativeLayout
+            android:layout_below="@+id/produceid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+        <RelativeLayout
+            android:id="@+id/relal1"
+            android:layout_width="170dp"
+            android:layout_height="170dp"
+            android:layout_margin="10dp"
+            android:elevation="2dp"
+            android:background="@drawable/slide_bg">
+            <ImageView
+                android:id="@+id/prodimage1"
+                android:layout_width="match_parent"
+                android:layout_height="483dp"
+                android:src="@mipmap/apple" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/relal2"
+            android:layout_width="170dp"
+            android:layout_height="170dp"
+            android:layout_margin="10dp"
+            android:elevation="2dp"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/slide_bg">
+            <ImageView
+                android:id="@+id/prodimage2"
+                android:layout_width="match_parent"
+                android:layout_height="483dp"
+                android:src="@mipmap/orange" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/relal3"
+            android:layout_width="170dp"
+            android:layout_height="170dp"
+            android:layout_margin="10dp"
+            android:elevation="2dp"
+            android:layout_below="@+id/relal1"
+            android:background="@drawable/slide_bg">
+            <ImageView
+                android:id="@+id/prodimage3"
+                android:layout_width="match_parent"
+                android:layout_height="483dp"
+                android:src="@mipmap/strawberry" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/relal4"
+            android:layout_width="170dp"
+            android:layout_height="170dp"
+            android:layout_margin="10dp"
+            android:elevation="2dp"
+            android:layout_below="@+id/relal2"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/slide_bg">
+            <ImageView
+                android:id="@+id/prodimage4"
+                android:layout_width="match_parent"
+                android:layout_height="483dp"
+                android:src="@mipmap/mango" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/relal3"
+            android:orientation="horizontal"
+            android:layout_marginTop="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="10dp"
+                android:text="Select one food as your answer"
+                android:textSize="20sp" />
+
+            <com.airbnb.lottie.LottieAnimationView
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                app:lottie_autoPlay="true"
+                android:layout_marginStart="287dp"
+                app:lottie_fileName="select.json"
+                app:lottie_loop="true" />
+
+        </RelativeLayout>
+    </RelativeLayout></RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "5106761174",
+    "firebase_url": "https://tflite-8a5cb.firebaseio.com",
+    "project_id": "tflite-8a5cb",
+    "storage_bucket": "tflite-8a5cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5106761174:android:44575a21829770d9",
+        "android_client_info": {
+          "package_name": "com.example.akroc.edversity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5106761174-btc6ajvb687nae34er1gdbdg3jfs9a32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.akroc.edversity",
+            "certificate_hash": "2746e596557dd841f47826a4622f431f5f6fda3f"
+          }
+        },
+        {
+          "client_id": "5106761174-7k2l3s7i43tdpe8sdno2momv3rcr7s01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtBUVQdmISLSst0R7DSPYtHI_K_GR1qe0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5106761174-7k2l3s7i43tdpe8sdno2momv3rcr7s01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

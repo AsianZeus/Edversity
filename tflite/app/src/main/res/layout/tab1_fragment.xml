@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <TextView
+        android:id="@+id/shapetext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Match the Shapes"
+        android:textAlignment="center"
+        android:textSize="25dp"/>
+<LinearLayout
+    android:id="@+id/linearholder"
+    android:layout_below="@+id/shapetext"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:orientation="horizontal"
+    android:gravity="center">
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginEnd="50dp">
+        <TextView
+            android:id="@+id/colA"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Column A"
+            android:textAllCaps="true"
+            android:textSize="18dp"/>
+        <ImageView
+            android:id="@+id/cid1"
+            android:layout_below="@+id/colA"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@mipmap/shape"
+            android:layout_margin="10dp"/>
+        <ImageView
+            android:id="@+id/cid2"
+            android:layout_below="@+id/cid1"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@mipmap/shape"
+            android:layout_margin="10dp"/>
+        <ImageView
+            android:id="@+id/cid3"
+            android:layout_below="@id/cid2"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@mipmap/shape"
+            android:layout_margin="10dp"/>
+        <ImageView
+            android:id="@+id/cid4"
+            android:layout_below="@id/cid3"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@mipmap/shape"
+            android:layout_margin="10dp"/>
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginStart="50dp">
+        <TextView
+            android:id="@+id/colB"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Column B"
+            android:textAllCaps="true"
+            android:textSize="18dp"/>
+        <ImageView
+            android:id="@+id/cid5"
+            android:layout_below="@+id/colB"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@mipmap/shape"
+            android:layout_margin="10dp"/>
+        <ImageView
+            android:id="@+id/cid6"
+            android:layout_below="@+id/cid5"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@mipmap/shape"
+            android:layout_margin="10dp"/>
+        <ImageView
+            android:id="@+id/cid7"
+            android:layout_below="@id/cid6"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@mipmap/shape"
+            android:layout_margin="10dp"/>
+        <ImageView
+            android:id="@+id/cid8"
+            android:layout_below="@id/cid7"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@mipmap/shape"
+            android:layout_margin="10dp"/>
+    </RelativeLayout>
+</LinearLayout>
+    <TextView
+        android:id="@+id/smatchscore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Score: 0"
+        android:textAlignment="center"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="15dp"
+        android:layout_below="@+id/linearholder"
+        android:textSize="20dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Long press the shape of column A and drag it to matching shape of column B."
+        android:layout_alignParentBottom="true"
+        android:textSize="12dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="150dp"/>
+    <Button
+        android:id="@+id/refreshRandom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Next"
+        android:background="@drawable/buttonshape"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="10dp"
+        android:layout_marginEnd="10dp"/>
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/tab1happy"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="0dp"
+        app:lottie_fileName="happy.json"
+        app:lottie_loop="false" />
+
+</RelativeLayout>

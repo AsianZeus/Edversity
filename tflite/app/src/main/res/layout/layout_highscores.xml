@@ -1,0 +1,152 @@
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:cardBackgroundColor="#ffff"
+    android:background="#ffff"
+    app:cardElevation="10dp">
+
+    <android.support.v7.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:orientation="vertical">
+
+    <TableLayout
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="20dp"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+    <TableRow>
+
+        <TextView
+            android:text="Colors"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1" />
+
+        <TextView
+            android:id="@+id/closcr"
+            android:text=""
+            android:layout_marginStart="30dp"
+            android:textSize="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1" />
+
+
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:text="Animals"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1" />
+        <TextView
+            android:id="@+id/aniscr"
+            android:text=""
+            android:layout_marginStart="30dp"
+            android:textSize="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1" />
+
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:text="Fruits"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1" />
+
+        <TextView
+            android:id="@+id/fruscr"
+            android:text=""
+            android:layout_marginStart="30dp"
+            android:textSize="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1" />
+
+    </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:text="Identical Match"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="1" />
+
+            <TextView
+                android:id="@+id/IdenticalMatch"
+                android:text=""
+                android:layout_marginStart="30dp"
+                android:textSize="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="1" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:text="Shape Match"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="1" />
+
+            <TextView
+                android:id="@+id/ShapeMatch"
+                android:text=""
+                android:layout_marginStart="30dp"
+                android:textSize="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="1" />
+
+        </TableRow>
+        <TableRow>
+
+            <TextView
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:text="Letter Match"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="1" />
+
+            <TextView
+                android:id="@+id/LetterMatch"
+                android:text=""
+                android:layout_marginStart="30dp"
+                android:textSize="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_column="1" />
+
+        </TableRow>
+
+
+</TableLayout>
+    </android.support.v7.widget.LinearLayoutCompat>
+
+</android.support.v7.widget.CardView>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativetestid"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@color/colorPrimaryLight"
+    android:layout_margin="0dp"
+    tools:context=".PronunTest">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="200dp"/>
+
+    <LinearLayout
+        android:id="@+id/linerlay"
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/synthesis"
+        android:paddingHorizontal="100dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="0dp"
+            android:text="Slide for Next Character"
+            android:textSize="18sp"/>
+
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/movef"
+            android:layout_height="25dp"
+            android:layout_width="wrap_content"
+            app:lottie_autoPlay="true"
+            android:layout_margin="0dp"
+            app:lottie_fileName="move.json"
+            app:lottie_loop="true" />
+
+    </LinearLayout>
+
+
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/synthesis"
+        android:layout_height="70dp"
+        android:layout_width="wrap_content"
+        app:lottie_autoPlay="true"
+        android:visibility="invisible"
+        app:lottie_fileName="synthesis.json"
+        android:layout_above="@+id/voicemic"
+        android:layout_centerHorizontal="true"
+        app:lottie_loop="true" />
+
+
+    <ImageView
+        android:id="@+id/voicemic"
+        android:layout_height="80dp"
+        android:layout_width="80dp"
+        android:elevation="2dp"
+        android:src="@mipmap/mic"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp" />
+
+</RelativeLayout>

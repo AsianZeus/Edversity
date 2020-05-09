@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="20dp"
+        android:elevation="4dp"
+        android:background="@drawable/slide_bg">
+
+        <TextView
+            android:id="@+id/colourname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Red Color"
+            android:textAlignment="center"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="10dp"
+            android:textSize="25dp"/>
+
+        <TextView
+            android:id="@+id/justtesting"
+            android:layout_width="wrap_content"
+            android:layout_height="317dp"
+            android:layout_centerHorizontal="true"
+            android:text="▲"
+            android:textColor="#aaaa"
+            android:textSize="270dp" />
+
+        <LinearLayout
+            android:layout_below="@id/justtesting"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/square"
+            android:layout_marginHorizontal="20dp"
+            android:paddingHorizontal="10dp"
+            android:id="@+id/jstlinear"
+            android:gravity="center"
+            android:elevation="4dp"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/justtesting1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="■⁮⁮"
+                android:layout_marginHorizontal="5dp"
+                android:textColor="#dd0000"
+                android:layout_centerHorizontal="true"
+                android:textSize="50dp"/>
+            <TextView
+                android:id="@+id/justtesting2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="■"
+                android:layout_marginHorizontal="5dp"
+                android:textColor="#f0f00f"
+                android:layout_centerHorizontal="true"
+                android:textSize="50dp"/>
+            <TextView
+                android:id="@+id/justtesting3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="■"
+                android:layout_marginHorizontal="5dp"
+                android:textColor="#00ff00"
+                android:layout_centerHorizontal="true"
+                android:textSize="50dp"/>
+            <TextView
+                android:id="@+id/justtesting4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="■"
+                android:padding="0dp"
+                android:layout_marginHorizontal="5dp"
+                android:textColor="#dd00dd"
+                android:textAlignment="gravity"
+                android:layout_centerHorizontal="true"
+                android:textSize="50dp"/>
+            <TextView
+                android:id="@+id/justtesting5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="■"
+                android:padding="0dp"
+                android:layout_marginHorizontal="5dp"
+                android:textColor="#000"
+                android:textAlignment="gravity"
+                android:layout_centerHorizontal="true"
+                android:textSize="50dp"/>
+
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

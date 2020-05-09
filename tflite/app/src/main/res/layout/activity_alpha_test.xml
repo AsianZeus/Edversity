@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context=".AlphaTest">
+
+<com.example.akroc.edversity.views.DrawView
+    android:id="@+id/draw"
+    android:layout_width="match_parent"
+    android:layout_height="400dp"
+    android:background="@drawable/slide_bg"
+    android:elevation="5dp"
+    android:layout_margin="17dp"
+    android:padding="10dp"
+    />
+
+<LinearLayout
+    android:id="@+id/testlay1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/draw"
+    android:gravity="center"
+    android:orientation="horizontal"
+    >
+
+    <Button
+        android:id="@+id/btn_clear"
+        android:background="@drawable/buttonshape"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="Clear"
+        />
+
+    <Button
+        android:id="@+id/btn_class"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="@drawable/buttonshape"
+        android:text="Detect"
+        />
+</LinearLayout>
+
+<TextView
+    android:id="@+id/tfRes"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="20dp"
+    android:layout_below="@+id/testlay1"
+    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        android:visibility="visible"
+        app:lottie_fileName="draw.json"/>
+</RelativeLayout>

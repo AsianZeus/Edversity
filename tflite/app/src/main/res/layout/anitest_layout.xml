@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_margin="15dp"
+        android:paddingTop="10dp"
+        android:background="@drawable/slide_bg"
+        android:elevation="4dp">
+
+        <RelativeLayout
+            android:id="@+id/rela1"
+            android:layout_width="170dp"
+            android:layout_height="170dp"
+            android:layout_margin="10dp"
+            android:elevation="2dp"
+            android:background="@drawable/slide_bg">
+            <ImageView
+                android:id="@+id/imageanimaa"
+                android:layout_width="match_parent"
+                android:layout_height="483dp"
+                android:src="@mipmap/a_for_apple" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/rela2"
+            android:layout_width="170dp"
+            android:layout_height="170dp"
+            android:layout_margin="10dp"
+            android:elevation="2dp"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/slide_bg">
+            <ImageView
+                android:id="@+id/imageanimab"
+                android:layout_width="match_parent"
+                android:layout_height="483dp"
+                android:src="@mipmap/b_for_ball" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rela3"
+            android:layout_width="170dp"
+            android:layout_height="170dp"
+            android:layout_margin="10dp"
+            android:elevation="2dp"
+            android:layout_below="@+id/rela1"
+            android:background="@drawable/slide_bg">
+            <ImageView
+                android:id="@+id/imageanimac"
+                android:layout_width="match_parent"
+                android:layout_height="483dp"
+                android:src="@mipmap/b_for_ball" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/rela4"
+            android:layout_width="170dp"
+            android:layout_height="170dp"
+            android:layout_margin="10dp"
+            android:elevation="2dp"
+            android:layout_below="@+id/rela2"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/slide_bg">
+            <ImageView
+                android:id="@+id/imageanimad"
+                android:layout_width="match_parent"
+                android:layout_height="483dp"
+                android:src="@mipmap/b_for_ball" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/rela3"
+            android:orientation="horizontal"
+            android:layout_marginTop="10dp">
+
+            <TextView
+                android:id="@+id/sleecttext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="10dp"
+                android:text="Select one animal as your answer"
+                android:textSize="20sp" />
+
+            <com.airbnb.lottie.LottieAnimationView
+                android:id="@+id/sleect"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                app:lottie_autoPlay="true"
+                android:layout_marginStart="287dp"
+                app:lottie_fileName="select.json"
+                app:lottie_loop="true" />
+
+        </RelativeLayout>
+    </RelativeLayout>
+</RelativeLayout>

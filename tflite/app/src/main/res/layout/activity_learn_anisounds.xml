@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LearnAnisounds">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp5"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="200dp"/>
+
+
+    <LinearLayout
+        android:id="@+id/linerlayx"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/speak"
+        android:layout_marginBottom="1dp"
+        android:orientation="horizontal"
+        android:paddingHorizontal="100dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="0dp"
+            android:text="Slide for Next Animal"
+            android:textSize="18sp" />
+
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/movefo"
+            android:layout_width="wrap_content"
+            android:layout_height="25dp"
+            android:layout_margin="0dp"
+            app:lottie_autoPlay="true"
+            app:lottie_fileName="move.json"
+            app:lottie_loop="true" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/buttonTest1"
+        android:layout_width="104dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:elevation="4dp"
+        android:layout_margin="15dp"
+        android:textAllCaps="false"
+        android:background="@drawable/buttonshape"
+        android:text="Test" />
+
+
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/speak"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginBottom="20dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:elevation="5dp"
+        app:lottie_autoPlay="false"
+        app:lottie_fileName="playripple.json"
+        app:lottie_loop="false" />
+
+
+</RelativeLayout>

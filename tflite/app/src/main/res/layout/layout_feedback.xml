@@ -1,0 +1,60 @@
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:cardBackgroundColor="#ffff"
+    android:background="#ffff"
+    app:cardElevation="10dp">
+
+    <android.support.v7.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/lblRateMe"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Rate Me"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <RatingBar
+            android:id="@+id/ratingBarx"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:numStars="5"
+            android:stepSize="1.0"
+            android:rating="2"
+            android:background="@drawable/translucent"/>
+
+        <RelativeLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/xoo"
+                android:layout_margin="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Feedback here: "
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+        <EditText
+            android:id="@+id/feedbacktxt"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="20dp"
+            android:elevation="4dp"
+            android:padding="10dp"
+            android:textCursorDrawable="@null"
+            android:gravity="top|left"
+            android:background="@drawable/borderx"
+            android:layout_below="@+id/xoo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lines="5"/>
+        </RelativeLayout>
+        </android.support.v7.widget.LinearLayoutCompat>
+
+    </android.support.v7.widget.CardView>

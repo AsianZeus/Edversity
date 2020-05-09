@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:id="@+id/img"
+        android:layout_width="match_parent"
+        android:layout_height="316dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:scaleType="fitXY"
+        app:srcCompat="@mipmap/pathd" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="match_parent"
+        android:layout_height="141dp"
+        android:layout_alignBottom="@+id/img"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginBottom="-75dp"
+        android:scaleType="fitXY"
+        app:srcCompat="@mipmap/path7" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="178dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:paddingLeft="20dp"
+        android:paddingTop="30dp"
+        android:paddingRight="20dp"
+        app:srcCompat="@mipmap/edvlogo" />
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/profile"
+        android:layout_width="220dp"
+        android:layout_height="186dp"
+        android:layout_alignBottom="@+id/img"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="-44dp"
+        app:lottie_autoPlay="true"
+        app:lottie_fileName="profile.json"
+        app:lottie_loop="true" />
+
+
+    <com.shobhitpuri.custombuttons.GoogleSignInButton
+        android:id="@+id/googlebtn"
+        android:layout_width="342dp"
+        android:layout_height="55dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="35dp"
+        android:layout_marginBottom="124dp"
+        android:elevation="2dp"
+        android:text="@string/google_sign_up"
+        app:isDarkTheme="false" />
+
+
+    <ImageView
+        android:id="@+id/verMobile"
+        android:layout_width="355dp"
+        android:layout_height="58dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="29dp"
+        android:layout_marginBottom="43dp"
+        android:elevation="2dp"
+        app:srcCompat="@mipmap/phonebutton" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="359dp"
+        android:layout_height="121dp"
+        android:layout_above="@+id/googlebtn"
+        android:layout_centerHorizontal="true"
+        app:srcCompat="@mipmap/signup" />
+
+
+    <ProgressBar
+        android:id="@+id/loginProgress"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:indeterminate="true"
+        android:visibility="invisible"/>
+
+</RelativeLayout>
